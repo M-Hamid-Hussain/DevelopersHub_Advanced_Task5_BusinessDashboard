@@ -1,6 +1,6 @@
 # 📊 Superstore Business Dashboard
 Interactive business dashboard built with Streamlit to analyze sales, profit, and customer performance using the Superstore dataset.
-# 📊 Superstore Business Dashboard
+
 <img width="1344" height="630" alt="image" src="https://github.com/user-attachments/assets/65a65478-c12c-4ad8-8379-5b5761b68224" />
 
 
